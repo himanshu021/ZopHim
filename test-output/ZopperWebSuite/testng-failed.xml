@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ZopperWebSuite]" parallel="none">
+  <test name="BuyScenario(failed)" parallel="none">
+    <classes>
+      <class name="com.zopperSanity.VerifyTitle">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.zopperSanity.VerifyTitle -->
+      <class name="com.zopperSanity.buyNowForProduct">
+        <methods>
+          <include name="buyNowProduct"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.zopperSanity.buyNowForProduct -->
+    </classes>
+  </test> <!-- BuyScenario(failed) -->
+</suite> <!-- Failed suite [ZopperWebSuite] -->

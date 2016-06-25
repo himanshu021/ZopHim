@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ZopperWebSuite" duration-ms="129497" started-at="2016-06-24T05:22:34Z" finished-at="2016-06-24T05:24:44Z">
+    <groups>
+    </groups>
+    <test name="BuyScenario" duration-ms="129497" started-at="2016-06-24T05:22:34Z" finished-at="2016-06-24T05:24:44Z">
+      <class name="com.zopperSanity.buyNowForProduct">
+        <test-method status="PASS" signature="verifyBlogTitle()[pri:0, instance:com.zopperSanity.buyNowForProduct@4e04a765]" name="verifyBlogTitle" duration-ms="35533" started-at="2016-06-24T10:52:34Z" finished-at="2016-06-24T10:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBlogTitle -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.zopperSanity.buyNowForProduct@4e04a765]" name="tearDown" is-config="true" duration-ms="6359" started-at="2016-06-24T10:53:10Z" finished-at="2016-06-24T10:53:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyBlogTitle status=SUCCESS method=buyNowForProduct.verifyBlogTitle()[pri:0, instance:com.zopperSanity.buyNowForProduct@4e04a765] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="buyNowProduct()[pri:0, instance:com.zopperSanity.buyNowForProduct@4e04a765]" name="buyNowProduct" duration-ms="86490" started-at="2016-06-24T10:53:16Z" finished-at="2016-06-24T10:54:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyNowProduct -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.zopperSanity.buyNowForProduct@4e04a765]" name="tearDown" is-config="true" duration-ms="1099" started-at="2016-06-24T10:54:43Z" finished-at="2016-06-24T10:54:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=buyNowProduct status=SUCCESS method=buyNowForProduct.buyNowProduct()[pri:0, instance:com.zopperSanity.buyNowForProduct@4e04a765] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.zopperSanity.buyNowForProduct -->
+    </test> <!-- BuyScenario -->
+  </suite> <!-- ZopperWebSuite -->
+</testng-results>

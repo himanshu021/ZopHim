@@ -1,0 +1,8 @@
+com\zopperSanity\BaseTest.class
+com\zopperSanity\LaunchZopper.class
+com\zopperSanity\zopperLogin.class
+com\zopperSanity\launchingOnChrome.class
+com\pageObjet\ZopperWebConstants.class
+com\zopperSanity\buyNowForProduct.class
+com\zopperSanity\Utility.class
+com\zopperSanity\VerifyTitle.class

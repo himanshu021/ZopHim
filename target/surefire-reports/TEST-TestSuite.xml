@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="122.042" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="ZopWebMaven"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\zopper\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="77d5095a15d3c1d7"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_25\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\zopper\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_25-b18"/>
+    <property name="ANT_HOME" value="C:\apache-ant-1.9.4"/>
+    <property name="_RUNJDB" value="&quot;C:\Program Files\Java\jdk1.8.0_25\\bin\jdb.exe&quot;"/>
+    <property name="user.name" value="zopper"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="CURRENT_DIR" value="D:\Softwares\apache-tomcat-8.0.24\bin"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="BUILD_DISPLAY_NAME" value="#1"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_25\jre\bin"/>
+    <property name="ACTION" value="start"/>
+    <property name="LOCALAPPDATA" value="C:\Users\zopper\AppData\Local"/>
+    <property name="java.version" value="1.8.0_25"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="zopper"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_25\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="1"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="EXECUTABLE" value="D:\Softwares\apache-tomcat-8.0.24\bin\catalina.bat"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="JAVA_ENDORSED_DIRS" value="D:\Softwares\apache-tomcat-8.0.24\endorsed"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="JRE_HOME" value="C:\Program Files\Java\jdk1.8.0_25\"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_25\jre"/>
+    <property name="LOGGING_MANAGER" value="-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="6.1"/>
+    <property name="CATALINA_HOME" value="D:\Softwares\apache-tomcat-8.0.24"/>
+    <property name="TMP" value="C:\Users\zopper\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.25-b02"/>
+    <property name="JAVA_OPTS" value=" -Djava.util.logging.config.file=&quot;D:\Softwares\apache-tomcat-8.0.24\conf\logging.properties&quot; -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="FP_NO_HOST_CHECK" value="NO"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_25\"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\zopper"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="asl.log" value="Destination=file"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="LP-132"/>
+    <property name="user.home" value="C:\Users\zopper"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-ZopWebMaven-1"/>
+    <property name="JENKINS_SERVER_COOKIE" value="77d5095a15d3c1d7"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\zopper"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Softwares\apache-maven-3.3.9/bin;C:\Program Files\Java\jdk1.8.0_25\/bin;C:\Program Files\Java\jdk1.8.0_25\/bin;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Softwares\adt-bundle-windows\sdk\platform-tools;D:\Softwares\adt-bundle-windows\sdk;D:\Softwares\adt-bundle-windows\sdk\tools;D:\Softwares\adt-bundle-windows\sdk\platform-tools;C:\sdk\platform-tools;C:\sdk\build-tools;C:\Program Files\Java\jdk1.8.0_25\bin;C:\apache-ant-1.9.4\bin;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Python27;C:\Python27\Scripts;C:\Program Files\Java\bin;c:\cygwin\bin;D:\Softwares\apache-maven-3.3.9\bin;D:\Softwares\apache-jmeter-2.12\bin;C:\Program Files (x86)\Skype\Phone\;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Softwares\adt-bundle-windows\sdk\platform-tools;D:\Softwares\adt-bundle-windows\sdk;D:\Softwares\adt-bundle-windows\sdk\tools;D:\Softwares\adt-bundle-windows\sdk\platform-tools;C:\sdk\platform-tools;C:\sdk\build-tools;C:\Program Files\Java\jdk1.8.0_25\bin;C:\apache-ant-1.9.4\bin;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Python27;C:\Python27\Scripts;C:\Program Files\Java\bin;c:\cygwin\bin;C:\Program Files (x86)\Skype\Phone\;D:\Softwares\apache-maven-3.3.9\bin;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\zopper\AppData\Roaming"/>
+    <property name="JMETER_HOME" value="D:\Softwares\apache-jmeter-2.12"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="D:\Softwares\apache-maven-3.3.9"/>
+    <property name="java.class.path" value="C:\Users\zopper\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;D:\Softwares\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;D:\Softwares\apache-maven-3.3.9/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main D:\Softwares\apache-maven-3.3.9 D:\Softwares\apache-tomcat-8.0.24\webapps\jenkins\WEB-INF\lib\remoting-2.52.jar C:\Users\zopper\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Users\zopper\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 63023"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_25\/bin;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Softwares\adt-bundle-windows\sdk\platform-tools;D:\Softwares\adt-bundle-windows\sdk;D:\Softwares\adt-bundle-windows\sdk\tools;D:\Softwares\adt-bundle-windows\sdk\platform-tools;C:\sdk\platform-tools;C:\sdk\build-tools;C:\Program Files\Java\jdk1.8.0_25\bin;C:\apache-ant-1.9.4\bin;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Python27;C:\Python27\Scripts;C:\Program Files\Java\bin;c:\cygwin\bin;D:\Softwares\apache-maven-3.3.9\bin;D:\Softwares\apache-jmeter-2.12\bin;C:\Program Files (x86)\Skype\Phone\;C:\Python27\;C:\Python27\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Softwares\adt-bundle-windows\sdk\platform-tools;D:\Softwares\adt-bundle-windows\sdk;D:\Softwares\adt-bundle-windows\sdk\tools;D:\Softwares\adt-bundle-windows\sdk\platform-tools;C:\sdk\platform-tools;C:\sdk\build-tools;C:\Program Files\Java\jdk1.8.0_25\bin;C:\apache-ant-1.9.4\bin;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Python27;C:\Python27\Scripts;C:\Program Files\Java\bin;c:\cygwin\bin;C:\Program Files (x86)\Skype\Phone\;D:\Softwares\apache-maven-3.3.9\bin"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_25\/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 69 Stepping 1, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="CATALINA_BASE" value="D:\Softwares\apache-tomcat-8.0.24"/>
+    <property name="M2_HOME" value="D:\Softwares\apache-maven-3.3.9"/>
+    <property name="=D:" value="D:\Softwares\apache-tomcat-8.0.24\bin"/>
+    <property name="java.io.tmpdir" value="C:\Users\zopper\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="TITLE" value="Tomcat"/>
+    <property name="HUDSON_HOME" value="C:\Users\zopper\.jenkins"/>
+    <property name="PATH+MAVEN" value="D:\Softwares\apache-maven-3.3.9/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="_EXECJAVA" value="start &quot;Tomcat&quot; &quot;C:\Program Files\Java\jdk1.8.0_25\\bin\java.exe&quot;"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/jenkins/job/ZopWebMaven/1/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="LOGGING_CONFIG" value="-Djava.util.logging.config.file=&quot;D:\Softwares\apache-tomcat-8.0.24\conf\logging.properties&quot;"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_25\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="D:\workspace\ZopperWebSanity"/>
+    <property name="JOB_URL" value="http://localhost:8080/jenkins/job/ZopWebMaven/"/>
+    <property name="CATALINA_TMPDIR" value="D:\Softwares\apache-tomcat-8.0.24\temp"/>
+    <property name="_RUNJAVA" value="&quot;C:\Program Files\Java\jdk1.8.0_25\\bin\java.exe&quot;"/>
+    <property name="LOGONSERVER" value="\\LP-132"/>
+    <property name="USERDOMAIN" value="LP-132"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="MAVEN_HOME" value="D:\Softwares\apache-maven-3.3.9"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="1"/>
+    <property name="ANDROID_HOME" value="D:\Softwares\adt-bundle-windows\sdk"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/jenkins/"/>
+    <property name="PROCESSOR_REVISION" value="4501"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\zopper\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
+    <property name="WORKSPACE" value="C:\Users\zopper\.jenkins\jobs\ZopWebMaven\workspace"/>
+    <property name="maven3.interceptor.common" value="C:\Users\zopper\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar"/>
+    <property name="MAINCLASS" value="org.apache.catalina.startup.Bootstrap"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\PowerShell\Modules\"/>
+  </properties>
+  <testcase name="verifyBlogTitle" classname="com.zopperSanity.buyNowForProduct" time="35.559"/>
+  <testcase name="buyNowProduct" classname="com.zopperSanity.buyNowForProduct" time="86.483"/>
+</testsuite>
